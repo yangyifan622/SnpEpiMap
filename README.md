@@ -4,3 +4,5 @@ SnpEpiMap (version 1.0.0) takes the significant genomic variants as input and ge
 1. annotate significant SNPs identified by GWAS or other meta-genomics studies.
 2. collect related datasets from the Roadmap database and query the epigenetic signals by Deepblue (https://deepblue.mpi-inf.mpg.de/). 
 3. compute metrics (i.e., signal values, number of peaks, peak locations) and plot heatmaps.
+
+## usage
